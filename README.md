@@ -1,3 +1,4 @@
 # Image-classification based on CIFAR-10 dataset
-using Multi-Layer Fully Connected Network  
-build a Constitutional Network by numpy and pytorch
+The codes is to complete the assignment of CS231n of staford.
+mainly build a Multi-Layer Fully Connected Network  
+and a Convolutional Network by numpy and pytorch, respectively
